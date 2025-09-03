@@ -1,5 +1,7 @@
 This codebase runs https://benyehuda.org -- the Project Ben-Yehuda digital library of works in Hebrew.
 
+I am experimenting with making a Yiddish version.
+
 We make little effort to make the code general, but if you're looking to do something similar (e.g. a digital library in Yiddish), maybe you can adapt some of our code.
 
 Development environment setup
